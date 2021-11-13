@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Playfair Display", serif;
+  font-family: "Roboto", sans-serif;
+}
+/* navbar */
+.navbar-collapse {
+  margin-left: 80px;
+  text-align: right;
+}
+/* navbarends */
+h1 {
+  font-family: "Playfair Display", serif;
+  color: #ffc200;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: "Roboto", sans-serif;
+}
+.thankyou {
+  margin-top: 50px;
+}
+.btn {
+  border: radius 25px;
+}
