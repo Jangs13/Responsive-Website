@@ -2,7 +2,7 @@
 
 An elegant, responsive web platform offering essential information about Stylopedia's innovative beauty service booking experience.
 
-##Overview
+**Overview**
 This repository hosts the code for Stylopedia's official static website, designed to provide you with all the information you need to understand what Stylopedia is about. Easy to navigate and fully responsive, this website serves as your first step towards enjoying a hassle-free beauty service experience.
 
 **Features**
