@@ -7,13 +7,24 @@ This repository hosts the code for Stylopedia's official static website, designe
 
 **Features**
 Responsiveness: Designed for an optimal viewing experience—easy reading and navigation with a minimum of resizing, panning, and scrolling—across a wide range of devices.
+
+
 Informational Sections: Get an overview of what Stylopedia offers, how it works, and why it's beneficial for you.
+
+
 Contact Form: Interested in partnering with us? Use the contact form to get in touch.
+
+
 Download Links: Quick access to whatever platform you need to get started with Stylopedia.
 
 **Technologies Used**
+
 HTML5
+
+
 CSS3
+
+
 JavaScript
 
 
